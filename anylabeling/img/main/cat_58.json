@@ -1,0 +1,40 @@
+{
+  "version": "3.3.9",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "cat",
+      "score": null,
+      "points": [
+        [
+          193.47826086956513,
+          160.8695652173913
+        ],
+        [
+          1708.695652173913,
+          160.8695652173913
+        ],
+        [
+          1708.695652173913,
+          1502.1739130434783
+        ],
+        [
+          193.47826086956513,
+          1502.1739130434783
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rotation",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": [],
+      "direction": 0
+    }
+  ],
+  "imagePath": "cat_58.jpg",
+  "imageData": null,
+  "imageHeight": 1800,
+  "imageWidth": 1800
+}

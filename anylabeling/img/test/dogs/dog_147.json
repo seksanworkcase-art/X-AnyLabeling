@@ -1,0 +1,69 @@
+{
+  "version": "3.3.9",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "dog",
+      "score": null,
+      "points": [
+        [
+          166.1290322580645,
+          66.66129032258064
+        ],
+        [
+          294.15322580645164,
+          66.66129032258064
+        ],
+        [
+          294.15322580645164,
+          166.66129032258067
+        ],
+        [
+          166.1290322580645,
+          166.66129032258067
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rotation",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": [],
+      "direction": 0
+    },
+    {
+      "label": "dog",
+      "score": null,
+      "points": [
+        [
+          7.459677419354838,
+          38.03225806451612
+        ],
+        [
+          124.79838709677419,
+          38.03225806451612
+        ],
+        [
+          124.79838709677419,
+          163.03225806451613
+        ],
+        [
+          7.459677419354838,
+          163.03225806451613
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "dog_147.jpg",
+  "imageData": null,
+  "imageHeight": 168,
+  "imageWidth": 300
+}

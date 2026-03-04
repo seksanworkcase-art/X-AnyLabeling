@@ -1,0 +1,40 @@
+{
+  "version": "3.3.9",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "dog",
+      "score": null,
+      "points": [
+        [
+          47.5,
+          22.5
+        ],
+        [
+          193.75,
+          22.5
+        ],
+        [
+          193.75,
+          238.75
+        ],
+        [
+          47.5,
+          238.75
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rotation",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": [],
+      "direction": 0
+    }
+  ],
+  "imagePath": "dog_576.jpg",
+  "imageData": null,
+  "imageHeight": 260,
+  "imageWidth": 260
+}

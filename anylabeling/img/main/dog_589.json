@@ -1,0 +1,40 @@
+{
+  "version": "3.3.9",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "dog",
+      "score": null,
+      "points": [
+        [
+          70.56451612903226,
+          15.65322580645161
+        ],
+        [
+          238.70967741935482,
+          15.65322580645161
+        ],
+        [
+          238.70967741935482,
+          152.75
+        ],
+        [
+          70.56451612903226,
+          152.75
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rotation",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": [],
+      "direction": 0
+    }
+  ],
+  "imagePath": "dog_589.jpg",
+  "imageData": null,
+  "imageHeight": 168,
+  "imageWidth": 300
+}

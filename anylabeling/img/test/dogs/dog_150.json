@@ -1,0 +1,39 @@
+{
+  "version": "3.3.9",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "dog",
+      "score": null,
+      "points": [
+        [
+          245.60000000000002,
+          58.3
+        ],
+        [
+          820.8,
+          58.3
+        ],
+        [
+          820.8,
+          641.5
+        ],
+        [
+          245.60000000000002,
+          641.5
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "dog_150.jpg",
+  "imageData": null,
+  "imageHeight": 667,
+  "imageWidth": 1000
+}
